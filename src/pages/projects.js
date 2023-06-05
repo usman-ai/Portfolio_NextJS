@@ -149,7 +149,7 @@ const projects = () => {
                 img={project1}
                 summary=" A feature-rich Social Media App using React, Express JS, Node JS, React Router and Material UI. 
            You can create users and posts ,Add and Remove friends,Like the posts etc.Fully Responsive Web Application"
-                link="/"
+                link="https://github.com/usman-ai/SocialMediaApp_MERN"
                 github="https://github.com/usman-ai/SocialMediaApp_MERN"
                 type="Featured Project"
               />{" "}
@@ -158,7 +158,7 @@ const projects = () => {
               <Project
                 title="E-Commerce Web Application"
                 img={project2}
-                link="/"
+                link="https://github.com/usman-ai/e-commerce-mern"
                 github="https://github.com/usman-ai/e-commerce-mern"
                 type="Featured Project"
               />

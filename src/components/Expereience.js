@@ -72,7 +72,7 @@ const Expereience = () => {
             work="o	Worked with a team of developers to design and develop web applications using the Laravel PHP framework.
             o	Built and maintained database schemas and RESTful APIs using MySQL database.
             o	Developed responsive and user-friendly UI/UX designs using HTML, CSS, and JavaScript.
-            o	Implemented functionality using various JavaScript libraries such as Vue.js and jQuery.
+            o	Implemented functionality using various JavaScript libraries such as React JS.
             o	Participated in code reviews, testing, and bug fixing to ensure high-quality and maintainable code.
             o	Integrated third-party services, such as payment gateways and social media APIs, into the applications.
             o	Assisted in deploying applications to production servers using Docker and AWS.
