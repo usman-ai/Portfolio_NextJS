@@ -58,7 +58,7 @@ const about = () => {
               <p className="font-medium">
                 Hi, Im Mohamed Usman, a web developer and UI/UX designer with a
                 passion for creating beautiful, functional, and user-centered
-                digital experiences. With 4 years of experience in the field. I
+                digital experiences. With 2 years of experience in the field. I
                 am always looking for new and innovative ways to bring my
                 clients visions to life.
               </p>
